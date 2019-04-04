@@ -1,0 +1,24 @@
+#Number of trees
+2
+#other field lengths
+10,20
+20,10,15
+#inserts no rotations required
+100,50,200,25,75,150,250
+90,40,150,10,60
+#inserts requiring rotation
+10,30,5
+55
+#finds
+5,10,30,150,45
+60,70
+#removes no rotations
+30,100,250
+55,95
+#after close
+#inserts
+2
+160,50,65,52
+#removes
+55,75,50,200,150,250
+60,50,55,52,65,40,10,150,165
